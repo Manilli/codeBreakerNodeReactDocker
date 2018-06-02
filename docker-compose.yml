@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  react:
+    image: manilli/codebreaker_front_jds
+    ports:
+    - "3000:3000"
+
+  node:
+    image: manilli/codebreaker_back_jds
+    ports:
+    - "5000:5000"
+
