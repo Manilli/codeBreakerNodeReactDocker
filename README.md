@@ -1,5 +1,7 @@
 CodeBreaker
 ---------------------
+- Run: docker-compose up
+- Enjoy
 
 Docker Images: https://hub.docker.com/u/manilli/
 ----------------------
